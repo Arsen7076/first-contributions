@@ -1,8 +1,9 @@
 # Contributors
 
+- [Edgar Budaghyan](https://github.com/Budaghyan)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
--[Hilal Semercioğlu](https://github.com/elinoza)
+i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
@@ -12,11 +13,13 @@
 - [Arbin Shrestha](https://github.com/arbeen)
 - [Jordan Fable](https://github.com/RimuruWasTaken9)
 - [Fatemeh Salehi](https://github.com/fnysalehi)
+- [Narek](https://github.com/Naki1995/first-contributions)
  [Adam Honvedo](https://github.com/Homvi)
 - [Blake Hill](https://github.com/Blake-Hill)<3
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
 - [Luis Vásquez](hhtps://github.com/vasquezluis) 👻
 - [Dwvwdv](https://github.com/dwvwdv)  
+[Sergey Mkrtchyan](https://github.com/Mkrtchyann)
 -[Amaka Uchegbu](https://github.com/UCHEHQ)
 - [Wah Vanessa](https://github.com/Vanessa082)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
@@ -25,6 +28,7 @@
 - [Elly Oyugi](hhttps://github.com/eoyugi)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
+-[Juli Sahakyan](https://github.com/juliasahakyan)
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 - [Giovane Aguiar](https://github.com/giovane-aG)
@@ -33,6 +37,7 @@ Kencham Vinay
 -[Anikhet Mulky](https://github.com/Anikhet)
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
+[Ani Nalbandyan](https://github.com/AniNalbandyan6)
 -[Gerald Calotes](https://github.com/geraldcalotes)
 -[Joseph Mbuyamba](https://github.com/jnmii)
 -[Gerzson Pszota] (https://github.com/gerzson-pszota)
