@@ -2328,6 +2328,7 @@ LadegbayeStella)
 - [Aiman] (https://github.com/helloaim4n)
 - [crystalyn]
 - [Nitipat Ruengsatawit](https://github.com/nitipat21)
+- [Arsen From MoodMap.ai] (https://github.com/Arsen7076)
 - [Felix](https://github.com/Feliax111)
 - [Wa]
 - [EL]
